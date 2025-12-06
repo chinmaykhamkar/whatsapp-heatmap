@@ -2,6 +2,8 @@
 
 A beautiful, minimal, and privacy-focused web application that visualizes your WhatsApp chat activity as a GitHub-style contribution heatmap.
 
+![WhatsApp Chat Heatmap Screenshot](ss.png)
+
 ## Features
 
 - 📊 **GitHub-Style Heatmap** - Beautiful visualization of your messaging patterns over time
