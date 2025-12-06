@@ -171,7 +171,6 @@ export function generateHeatmapData(messagesByDate: Map<string, number>, year?: 
   // Get date range from messages
   const dates = Array.from(messagesByDate.keys()).map(d => new Date(d));
   const minDate = new Date(Math.min(...dates.map(d => d.getTime())));
-  const maxDate = new Date(Math.max(...dates.map(d => d.getTime())));
 
   // If year is specified, use that year's range
   let startDate: Date;
