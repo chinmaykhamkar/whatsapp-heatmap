@@ -1,3 +1,5 @@
+
+
 # WhatsApp Chat Heatmap
 
 A beautiful, minimal, and privacy-focused web application that visualizes your WhatsApp chat activity as a GitHub-style contribution heatmap.
@@ -20,7 +22,7 @@ A beautiful, minimal, and privacy-focused web application that visualizes your W
    - Open the chat you want to visualize
    - Tap the three dots (⋮) menu → **More** → **Export chat**
    - Choose **Without Media**
-   - Send the file to yourself (email, cloud storage, etc.)
+   - Download the ZIP file, extract it, and keep the `.txt` file
 
 2. **Upload the `.txt` file:**
    - Open the app
